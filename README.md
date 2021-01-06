@@ -39,15 +39,9 @@ Greetings, I’m Arief. I’m a web developer living in Sragen, Jawa Tengah, Ind
 
 <div align = "center">
 
-  <p align="center">
+![Arief BP's Github Status](https://github-readme-stats.vercel.app/api?username=archytech99&show_icons=true&theme=tokyonight&line_height=27)
   
-  ![Arief BP's Github Status](https://github-readme-stats.vercel.app/api?username=archytech99&show_icons=true&theme=tokyonight&line_height=27)
-  
-  ![Arief BP's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=archytech99&langs_count=8&theme=tokyonight&layout=compact)
-
-  </p>
-  
-</div>
+![Arief BP's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=archytech99&langs_count=8&theme=tokyonight&layout=compact)
 
 <table>
   <tbody>
@@ -121,3 +115,4 @@ Greetings, I’m Arief. I’m a web developer living in Sragen, Jawa Tengah, Ind
     </tr>
   </tbody>
 </table>
+</div>
