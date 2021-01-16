@@ -21,11 +21,11 @@
   </a>
 
   <a href="https://twitter.com/archytech99">
-    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white" alt="twitter">
+    <img src="https://img.shields.io/badge/Twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white" alt="twitter">
   </a>
   
-  <a href="https://github.com/archytech99">
-    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white" alt="github">  
+  <a href="https://www.paypal.com/paypalme/archytech">
+    <img src="https://img.shields.io/badge/Paypal-%234B7FB5.svg?&style=flat-square&logo=paypal&logoColor=white" alt="paypal">  
   </a>
   
   <a href="https://t.me/archytech99">
