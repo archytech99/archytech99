@@ -8,27 +8,27 @@
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/arief-bp-1175b9169/">
+  <a href="https://www.linkedin.com/in/arief-bp-1175b9169" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
   
-  <a href="https://www.facebook.com/archytech99">
+  <a href="https://www.facebook.com/archytech99" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="facebook">  
   </a>
  
-  <a href="https://www.instagram.com/archytech99">
+  <a href="https://www.instagram.com/archytech99" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="instagram">
   </a>
 
-  <a href="https://twitter.com/archytech99">
+  <a href="https://twitter.com/archytech99" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white" alt="twitter">
   </a>
   
-  <a href="https://www.paypal.com/paypalme/archytech">
+  <a href="https://www.paypal.com/paypalme/archytech" target="_blank">
     <img src="https://img.shields.io/badge/Paypal-%234B7FB5.svg?&style=flat-square&logo=paypal&logoColor=white" alt="paypal">  
   </a>
   
-  <a href="https://t.me/archytech99">
+  <a href="https://t.me/archytech99" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=flat-square&logo=telegram&logoColor=white" alt="telegram">
   </a>
 </p>
