@@ -31,6 +31,10 @@
   <a href="https://t.me/archytech99" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=flat-square&logo=telegram&logoColor=white" alt="telegram">
   </a>
+  
+  <a href="https://wa.me/6281328908709" target="_blank">
+    <img src="https://img.shields.io/badge/Whastapp-%2325D366.svg?style=flat-square&logo=whatsapp&logoColor=white" alt="whatsapp">
+  </a>
 </p>
 
 Greetings, I’m Arief. I’m a web developer living in Sragen, Jawa Tengah, Indonesia. I am a fan of technology, music, and entrepreneurship. I’m also interested in programming and video games. You can find me with the button above.
