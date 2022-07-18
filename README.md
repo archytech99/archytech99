@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=flat-square&logo=telegram&logoColor=white" alt="telegram">
   </a>
   
-  <a href="https://wa.me/6281328908709" target="_blank">
+  <a href="https://wa.me/6285157992147" target="_blank">
     <img src="https://img.shields.io/badge/Whastapp-%2325D366.svg?style=flat-square&logo=whatsapp&logoColor=white" alt="whatsapp">
   </a>
 </p>
