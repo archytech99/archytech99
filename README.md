@@ -96,8 +96,8 @@ Greetings, I’m Arief. I’m a web developer living in Sragen, Jawa Tengah, Ind
       </td>
       <td width="25%" align="center">
         <br>
-        <span><strong>IBM</strong></span><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/ibm/ibm-ar21.svg">
+        <span><strong>IoT</strong></span><br><br>
+        <img height="64px" src="https://developers.redhat.com/blog/wp-content/uploads/2015/07/internetofthings-01.png">
       </td>
     </tr>
     <tr valign="top">
