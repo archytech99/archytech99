@@ -4,7 +4,7 @@
 
 <p align="center">
 
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=archytech99.archytech99">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=archytech99.archytech99">
 
   <a href="https://www.linkedin.com/in/arief-bp-1175b9169" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="linkedin">
