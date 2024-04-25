@@ -1,4 +1,5 @@
 # Hey, I'm [Arief BP](https://github.com/archytech99) <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="40px" alt="hi5">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=archytech99.archytech99">
 
 <p align="center">
   <img src="https://pe.gatech.edu/sites/default/files/styles/focal_point_full_width_1900x930/public/news/401130%20Feb%202018%20love%20courses%202000x979.jpg?itok=P9I2vUJv" width="92%" alt="">
@@ -120,3 +121,7 @@ Greetings, I’m Arief. I’m a web developer living in Sragen, Jawa Tengah, Ind
   </tbody>
 </table>
 </div>
+
+## Here are some ideas to get you started:
+
+<div align = "center">
