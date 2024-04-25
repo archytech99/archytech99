@@ -1,13 +1,10 @@
 # Hey, I'm [Arief BP](https://github.com/archytech99) <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="40px" alt="hi5">
 
-<p align="center">
-  <img src="https://pe.gatech.edu/sites/default/files/styles/focal_point_full_width_1900x930/public/news/401130%20Feb%202018%20love%20courses%202000x979.jpg?itok=P9I2vUJv" width="92%" alt="">
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=archytech99.archytech99">
-</p>
-
 ## About Me
 
 <p align="center">
+
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=archytech99.archytech99">
 
   <a href="https://www.linkedin.com/in/arief-bp-1175b9169" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="linkedin">
