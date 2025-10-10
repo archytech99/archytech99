@@ -21,17 +21,17 @@
   <a href="https://twitter.com/archytech99" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white" alt="twitter">
   </a>
-  
-  <!--<a href="https://www.paypal.com/paypalme/archytech" target="_blank">
-    <img src="https://img.shields.io/badge/Paypal-%234B7FB5.svg?&style=flat-square&logo=paypal&logoColor=white" alt="paypal">  
-  </a>-->
-  
+
   <a href="https://t.me/archytech99" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=flat-square&logo=telegram&logoColor=white" alt="telegram">
   </a>
-  
+    
   <a href="https://wa.me/6285157992147" target="_blank">
     <img src="https://img.shields.io/badge/Whastapp-%2325D366.svg?style=flat-square&logo=whatsapp&logoColor=white" alt="whatsapp">
+  </a>
+  
+  <a href="https://buymeacoffee.com/archytech9q" target="_blank">
+    <img src="https://img.shields.io/badge/BuyMeACoofee-%23ffdd00.svg?&style=flat-square&logo=twitter&logoColor=white" alt="buy me a coffee">  
   </a>
 </p>
 
