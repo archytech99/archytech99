@@ -3,33 +3,25 @@
 ## About Me
 
 <p align="center">
-
   <img src="https://visitor-badge.laobi.icu/badge?page_id=archytech99.archytech99">
-
   <a href="https://www.linkedin.com/in/arief-bp-1175b9169" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
-  
   <a href="https://www.facebook.com/archytech99" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="facebook">  
   </a>
- 
   <a href="https://www.instagram.com/archytech99" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="instagram">
   </a>
-
   <a href="https://twitter.com/archytech99" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white" alt="twitter">
   </a>
-
   <a href="https://t.me/archytech99" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=flat-square&logo=telegram&logoColor=white" alt="telegram">
   </a>
-    
   <a href="https://wa.me/6285157992147" target="_blank">
     <img src="https://img.shields.io/badge/Whastapp-%2325D366.svg?style=flat-square&logo=whatsapp&logoColor=white" alt="whatsapp">
   </a>
-  
   <a href="https://buymeacoffee.com/archytech9q" target="_blank">
     <img src="https://img.shields.io/badge/BuyMeACoofee-%23ffdd00.svg?&style=flat-square&logo=twitter&logoColor=white" alt="buy me a coffee">  
   </a>
